@@ -3,7 +3,7 @@ regex
 tqdm
 scipy
 matplotlib
-git+https://github.com/openai/CLIP.git
+git+https://hub.yzuu.cf/openai/CLIP.git
 addict
 yapf
 smplx
